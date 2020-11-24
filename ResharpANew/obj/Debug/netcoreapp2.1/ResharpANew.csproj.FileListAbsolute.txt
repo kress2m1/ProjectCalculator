@@ -1,0 +1,11 @@
+C:\Users\Andre D\source\repos\ResharpANew\ResharpANew\bin\Debug\netcoreapp2.1\ResharpANew.deps.json
+C:\Users\Andre D\source\repos\ResharpANew\ResharpANew\bin\Debug\netcoreapp2.1\ResharpANew.runtimeconfig.json
+C:\Users\Andre D\source\repos\ResharpANew\ResharpANew\bin\Debug\netcoreapp2.1\ResharpANew.runtimeconfig.dev.json
+C:\Users\Andre D\source\repos\ResharpANew\ResharpANew\bin\Debug\netcoreapp2.1\ResharpANew.dll
+C:\Users\Andre D\source\repos\ResharpANew\ResharpANew\bin\Debug\netcoreapp2.1\ResharpANew.pdb
+C:\Users\Andre D\source\repos\ResharpANew\ResharpANew\obj\Debug\netcoreapp2.1\ResharpANew.csprojAssemblyReference.cache
+C:\Users\Andre D\source\repos\ResharpANew\ResharpANew\obj\Debug\netcoreapp2.1\ResharpANew.csproj.CoreCompileInputs.cache
+C:\Users\Andre D\source\repos\ResharpANew\ResharpANew\obj\Debug\netcoreapp2.1\ResharpANew.AssemblyInfoInputs.cache
+C:\Users\Andre D\source\repos\ResharpANew\ResharpANew\obj\Debug\netcoreapp2.1\ResharpANew.AssemblyInfo.cs
+C:\Users\Andre D\source\repos\ResharpANew\ResharpANew\obj\Debug\netcoreapp2.1\ResharpANew.dll
+C:\Users\Andre D\source\repos\ResharpANew\ResharpANew\obj\Debug\netcoreapp2.1\ResharpANew.pdb
